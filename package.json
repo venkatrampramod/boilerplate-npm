@@ -17,6 +17,7 @@
 		"freecodecamp"
 	],
 	"license": "MIT",
+	"version": "1.2.0",
 	"description": "Boilerplate-npm",
 	"author": "Ven Pramod"
 }
