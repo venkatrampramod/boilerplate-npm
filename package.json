@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://github.com/venkatrampramod/boilerplate-npm.git"
 	},
+	"description": "Boilerplate-npm",
 	"author": "Ven Pramod"
 }
