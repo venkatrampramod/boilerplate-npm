@@ -11,6 +11,11 @@
 		"type": "git",
 		"url": "https://github.com/venkatrampramod/boilerplate-npm.git"
 	},
+	"keywords": [
+		"descriptive",
+		"related",
+		"freecodecamp"
+	],
 	"description": "Boilerplate-npm",
 	"author": "Ven Pramod"
 }
